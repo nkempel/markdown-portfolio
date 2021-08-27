@@ -38,16 +38,40 @@
 ## Skills
 <details><summary>Click to expand</summary>
 
-| | | | |
-| :-: | :-: | :-: | :-: |
-| `MySQL` | `Apache` | `NGinx` | `Visual Basic for Applications` |
-| `Git` | `GitHub` | `Ansible` | `RegEx (basic,extended,perl)` |
-| `C#` | `AS400` | `SharePoint` | `Red Hat Enterprise Linux (RHEL 7)` |
-| `Visual Studio` | `VSCode` | `Microsoft Access` | `SharePoint` |
-| `Some Python` | `Some Ruby` | `Ansible` | `AWS SSM` |
-| `HTML` | `GitHub Native Markdown` | `ITIL` | `Cloud` | `AS400` |
- 
-`HTML`
+<table>
+<tbody>
+<tr>
+<td>MySQL</td>
+<td>Apache&nbsp;</td>
+<td>NGinx&nbsp;</td>
+<td>Visual Basic for Applications</td>
+</tr>
+<tr>
+<td>Git</td>
+<td>GitHub</td>
+<td>Ansible</td>
+<td>RegEx (basic,extended,perl)</td>
+</tr>
+<tr>
+<td>Visual Studio</td>
+<td>VSCode</td>
+<td>Microsoft Access</td>
+<td>SharePoint</td>
+</tr>
+<tr>
+<td>Some Python</td>
+<td>Some Ruby</td>
+<td>Ansible</td>
+<td>AWS SSM</td>
+</tr>
+<tr>
+<td>HTML</td>
+<td>Some GitHub Native Markdown</td>
+<td>ITIL</td>
+<td>AS400</td>
+</tr>
+</tbody>
+</table>
   
 </details>
 
