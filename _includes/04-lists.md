@@ -35,7 +35,21 @@
 * File Management Analyst
 
 
+## Skills
+<details>
+<summary>Click to expand</summary>
+
+| | | | |
+| :-: | :-: | :-: | :-: |
+| `MySQL` | `Apache` | `NGinx` | `Visual Basic for Applications` |
+| `Git` | `GitHub` | `Ansible` | `RegEx (basic,extended,perl)` |
+| `C#` | `AS400` | `SharePoint` | `Red Hat Enterprise Linux (RHEL 7)` |
+| `Visual Studio` | `VSCode` | `Microsoft Access` | `SharePoint` |
+| `Some Python` | `Some Ruby` | `Ansible` | `AWS SSM` |
+| `HTML` | `GitHub Native Markdown` | `ITIL` | `Cloud` | `AS400` |
+
+</details>
+
+
 ## Some volunteer work
 * Animal Adoption Coordinator - CCAWS (Cute and Cuddly Animal Welfare Society)
-
-
