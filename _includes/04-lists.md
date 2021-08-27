@@ -36,8 +36,7 @@
 
 
 ## Skills
-<details>
-<summary>Click to expand</summary>
+<details><summary>Click to expand</summary>
 
 | | | | |
 | :-: | :-: | :-: | :-: |
@@ -47,7 +46,9 @@
 | `Visual Studio` | `VSCode` | `Microsoft Access` | `SharePoint` |
 | `Some Python` | `Some Ruby` | `Ansible` | `AWS SSM` |
 | `HTML` | `GitHub Native Markdown` | `ITIL` | `Cloud` | `AS400` |
-
+ 
+`HTML`
+  
 </details>
 
 
