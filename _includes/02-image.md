@@ -1,1 +1,1 @@
-![Not image of me](https://octodex.github.com/daftpunktocat-thomas/)
+![Not image of me](https://octodex.github.com/images/daftpunktocat-thomas.gif)
