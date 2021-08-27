@@ -30,9 +30,9 @@
 
 
 ## Some previous job experience
+* Linux Support Engineer II 😅
 * ETL Operations Analyst / Developer
 * File Management Analyst
-* Linux Support Engineer II 😅
 
 
 ## Some volunteer work
