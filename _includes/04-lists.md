@@ -3,9 +3,9 @@
 1. Playing video games with my son
 2. Messing with my cats (─‿─) 🎣 🐈🐈🐈🐈
 3. Pool
-   1. 8 ball
-   2. 9 ball
-   3. Swimming
+   a. 8 ball
+   b. 9 ball
+   c. Swimming
 4. Messing around on the computer... a tad
 5. Being creative 😉
 
