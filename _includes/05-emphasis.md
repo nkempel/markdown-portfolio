@@ -1,3 +1,3 @@
 <div align="center">
-For any additional imformation, feel free to view my **LinkedIn** profile _[here](https://www.linkedin.com/in/nathanaelkempel/)_.
-  </div>
+For any additional imformation, feel free to view my <b>LinkedIn</b> profile <i><a href="http://github.com/nkempel">here</a></i>.
+</div>
