@@ -1,1 +1,4 @@
-[My Github for TOP](http://github.com/nkempel)
+<details>
+  <summary>Link to my Github</summary>
+  http://github.com/nkempel
+</details>
